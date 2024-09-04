@@ -1,0 +1,32 @@
+{
+    "name": "Meu Cartão Pessoal",
+    "short_name": "Cartão",
+    "description": "Aplicativo de referência dos dados profissionais de Gabriel Erick.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB",
+    "icons": [
+        {
+            "src": "./img/sasuke.jpg",
+            "sizes": "500x500",
+            "type": "image/jpg"
+        },
+        {
+            "src": "./img/facebook.png",
+            "sizes": "512x513",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/instagram.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/tik-tok.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "lang": "pt-BR"
+}
